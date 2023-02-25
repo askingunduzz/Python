@@ -1,0 +1,5 @@
+print(int(2.4))
+print(2+2)
+print(2.3+5)
+print(type(2.3))
+print(type(True))

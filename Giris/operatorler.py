@@ -1,0 +1,16 @@
+2+2
+type(2+2)
+print(type(2.2+4))
+print(2.2+4)
+print(2.3*4)
+type(2.2*4)
+print(10.4/2)
+print(type(10.0/2))
+print(10.0/2)
+print(type(10/2.0))
+print(10/2.0)
+print(type(10.0/2.0))
+print(10.0/2.0)
+print(5**2) ##uzeri
+print(5**(-1))
+print(type(5**-1))
