@@ -1,0 +1,10 @@
+b=2+4
+a=5
+print(a+b)
+print(a)
+print(b)
+limon_fiyat=15
+s1=limon_fiyat*10
+s2=limon_fiyat+20
+print(s1)
+print(s2)
